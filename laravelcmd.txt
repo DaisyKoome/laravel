@@ -1,0 +1,3 @@
+crucial laravel commands
+laravel new firstproject
+composer create-project --prefer-dist laravel/laravel firstproject
